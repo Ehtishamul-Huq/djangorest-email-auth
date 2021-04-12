@@ -1,2 +1,2 @@
 # djangorest-email-auth
-Django Rest - Email login, verification, forgot, change password, CRUD, search, pagination.
+Django Rest Framework - Email login, verification, forgot, change password, CRUD, search, pagination.
